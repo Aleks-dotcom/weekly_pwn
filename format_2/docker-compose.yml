@@ -1,0 +1,6 @@
+version: '3'
+services:
+  format_2:
+    build: .
+    ports:
+      - 40005:7482

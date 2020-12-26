@@ -1,0 +1,6 @@
+version: '3'
+services:
+  baby_format:
+    build: .
+    ports:
+      - 40005:7482

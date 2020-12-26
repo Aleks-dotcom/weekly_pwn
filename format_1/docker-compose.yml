@@ -1,0 +1,6 @@
+version: '3'
+services:
+  format_1:
+    build: .
+    ports:
+      - 7481:7481

@@ -1,0 +1,6 @@
+version: '3'
+services:
+  format_3:
+    build: .
+    ports:
+      - 40006:7486

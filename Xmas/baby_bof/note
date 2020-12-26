@@ -1,0 +1,2 @@
+# complie gcc -o baby_bof -fno-stack-protector -no-pie baby_bof.c
+

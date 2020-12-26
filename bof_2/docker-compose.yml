@@ -1,0 +1,6 @@
+version: '3'
+services:
+  bof_1:
+    build: .
+    ports:
+      - 7479:7479

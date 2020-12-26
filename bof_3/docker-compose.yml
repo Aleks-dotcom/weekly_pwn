@@ -1,0 +1,6 @@
+version: '3'
+services:
+  bof_3:
+    build: .
+    ports:
+      - 7480:7480

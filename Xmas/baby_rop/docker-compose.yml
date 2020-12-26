@@ -1,0 +1,6 @@
+version: '3'
+services:
+  baby_rop:
+    build: .
+    ports:
+      - 40004:7481

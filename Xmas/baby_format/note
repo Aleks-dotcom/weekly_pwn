@@ -1,0 +1,2 @@
+flag pa porte dejte zament ker nism vedu kaj dat, libc file loh date tekmovalcem ker brez njega je malo tezje resi izziv(da pa se :) ).
+compile gcc -o baby_format -fno-stack-protector -no-pie baby_format.c
